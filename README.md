@@ -59,6 +59,8 @@ Using the `fs` Node package, LIRI will take the text inside of random.txt and th
 
 Right now it will run `spotify-this-song` for "I Want it That Way,".
 
+![alt text](https://github.com/joshespr/8-Liri/blob/master/gifs/backstreet.gif)
+
 Feel free to change the text in that document to test out the feature for other commands.
 
 ## Authors
